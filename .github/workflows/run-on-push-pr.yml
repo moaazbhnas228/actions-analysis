@@ -13,4 +13,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Print my name
-        run: echo "Moaaz Bhnas"
+        run: echo "Hello, Moaaz Bhnas"
