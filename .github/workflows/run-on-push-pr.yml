@@ -1,4 +1,4 @@
-name: Should run on push and prs into main
+name: Should run on push and prs into staging
 
 on:
   push:
